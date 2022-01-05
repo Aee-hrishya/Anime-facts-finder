@@ -1,3 +1,19 @@
+# Anime Facts Finder
+
+In this project the user can read their favourite anime facts. They just have to type their anime name and the facts are displayed.
+
+## Technologies used
+
+ - React.js
+ - Firebase ( for email and password authentication )
+ - Anime Facts free API (https://chandan-02.github.io/anime-facts-rest-api/)
+
+## Features
+
+The user can SignUp or SignIn using the two pages so that no unauthorized user can search the facts from the application. Upon Signup (for first time users) and Signin
+the users is displayed a search tab where they can type the name of the anime and corresponding fact gets shown. Every time the user clicks on search button again a new 
+fact about the searched anime is displayed.
+ 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

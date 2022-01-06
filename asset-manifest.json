@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Anime-facts/static/css/main.4b3712d8.css",
-    "main.js": "/Anime-facts/static/js/main.472801fc.js",
-    "static/js/787.0e344a2b.chunk.js": "/Anime-facts/static/js/787.0e344a2b.chunk.js",
-    "index.html": "/Anime-facts/index.html",
-    "main.4b3712d8.css.map": "/Anime-facts/static/css/main.4b3712d8.css.map",
-    "main.472801fc.js.map": "/Anime-facts/static/js/main.472801fc.js.map",
-    "787.0e344a2b.chunk.js.map": "/Anime-facts/static/js/787.0e344a2b.chunk.js.map"
+    "main.css": "/Anime-facts-finder/static/css/main.4b3712d8.css",
+    "main.js": "/Anime-facts-finder/static/js/main.f85e08e1.js",
+    "static/js/787.0e344a2b.chunk.js": "/Anime-facts-finder/static/js/787.0e344a2b.chunk.js",
+    "index.html": "/Anime-facts-finder/index.html",
+    "main.4b3712d8.css.map": "/Anime-facts-finder/static/css/main.4b3712d8.css.map",
+    "main.f85e08e1.js.map": "/Anime-facts-finder/static/js/main.f85e08e1.js.map",
+    "787.0e344a2b.chunk.js.map": "/Anime-facts-finder/static/js/787.0e344a2b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4b3712d8.css",
-    "static/js/main.472801fc.js"
+    "static/js/main.f85e08e1.js"
   ]
 }

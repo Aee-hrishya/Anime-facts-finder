@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Anime-facts-finder/static/css/main.4b3712d8.css",
-    "main.js": "/Anime-facts-finder/static/js/main.f85e08e1.js",
+    "main.js": "/Anime-facts-finder/static/js/main.04b5041c.js",
     "static/js/787.0e344a2b.chunk.js": "/Anime-facts-finder/static/js/787.0e344a2b.chunk.js",
     "index.html": "/Anime-facts-finder/index.html",
     "main.4b3712d8.css.map": "/Anime-facts-finder/static/css/main.4b3712d8.css.map",
-    "main.f85e08e1.js.map": "/Anime-facts-finder/static/js/main.f85e08e1.js.map",
+    "main.04b5041c.js.map": "/Anime-facts-finder/static/js/main.04b5041c.js.map",
     "787.0e344a2b.chunk.js.map": "/Anime-facts-finder/static/js/787.0e344a2b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4b3712d8.css",
-    "static/js/main.f85e08e1.js"
+    "static/js/main.04b5041c.js"
   ]
 }

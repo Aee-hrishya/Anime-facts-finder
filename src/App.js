@@ -7,7 +7,7 @@ import PageNotFound from "./Pages/PageNotFound";
 import NavBar from "./Layout/NavBar";
 import Footer from "./Layout/Footer";
 import UserContext from "./Context/UserContext";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.min.css";
 import './App.css';
